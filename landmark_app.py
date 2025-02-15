@@ -170,3 +170,5 @@ image_label.pack(pady=10)
 
 # Run the GUI
 root.mainloop()
+
+
